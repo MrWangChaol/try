@@ -1,0 +1,19 @@
+{
+	"seller":{
+		"name":"韩冷",
+		"type":0,
+		"title":"验车在线报价和下单",               
+        "activity": "在线立减，立减20元",
+        "homer":"/src/components/home/home.png/home-banner_02.png"       
+	},
+	"goods":[
+		{
+			"type":0,
+			"stu":"hahahaha"	
+		},
+		{
+			"type":0,
+			"stu":"ha"	
+		}	            
+	]
+}
